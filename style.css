@@ -1,0 +1,15 @@
+h1{
+ color: rgb(255, 0, 0); 
+}
+#id1
+{
+    color: yellow;
+}
+.cls1
+{
+    color: pink;
+}
+*
+{
+    color: orange;
+}
