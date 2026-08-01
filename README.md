@@ -1,0 +1,7 @@
+This project is a simple demonstration of the most commonly used CSS selectors. It shows how different selectors apply styles to HTML elements.
+
+📌 Features
+Element Selector
+Universal Selector
+ID Selector
+Class Selector
