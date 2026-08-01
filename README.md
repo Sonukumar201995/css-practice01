@@ -5,3 +5,13 @@ Element Selector
 Universal Selector
 ID Selector
 Class Selector
+
+
+📌 Features
+Text Color (color)
+Background Color (background-color)
+Text Alignment (text-align)
+Text Decoration (text-decoration)
+Font Weight (font-weight)
+Font Family (font-family)
+Text Transformation (text-transform)
