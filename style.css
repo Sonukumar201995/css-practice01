@@ -1,18 +1,11 @@
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-    height: 200px;
-    background: lightgray;
+button {
+    padding: 10px 20px;
+    background: blue;
+    color: white;
+    border: none;
+    transition: transform 0.3s ease;
 }
 
-.item {
-    width: 80px;
-    height: 80px;
-    background: steelblue;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+button:hover {
+    transform: scale(1.1) rotate(5deg);
 }
